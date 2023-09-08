@@ -1,0 +1,23 @@
+.jumbotron{
+    background: cornflowerblue;
+    text-align: center;
+    margin-top: 50px;
+    color: white !important;
+    padding: 20px;
+}
+
+.tex{
+    text-align: center;   
+}
+
+#appstoreicon{
+    width: 200px;
+}
+
+#footer{
+    background-color: aqua;
+    padding-top: 150px;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 150px;
+}
